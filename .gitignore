@@ -1,0 +1,14 @@
+# MT4関連
+*.ex4
+*.mqh
+*.log
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
